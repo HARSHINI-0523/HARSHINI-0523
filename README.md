@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshini-0523&label=Profile%20views&color=0e75b6&style=flat" alt="harshini-0523" /> </p>
 
-- 🔭 I’m currently working on **Data Structures,Cybersecurity**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking for help with **Coding Practice**
 
@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://codepen.io/harshini-gopisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshini-gopisetty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshini-gopisetty-214311245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshini-gopisetty-214311245" height="30" width="40" /></a>
-<a href="https://instagram.com/harshini_gopisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshini_gopisetty" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshini2305" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshini2305" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gopisettyharshi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gopisettyharshi2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gopisettyharshini23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gopisettyharshini23" height="30" width="40" /></a>
